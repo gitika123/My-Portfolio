@@ -83,7 +83,7 @@ cd My-Portfolio
 ## 📋 Sections
 
 ### 🏠 Home
-- Hero section with animated typing effect
+- Hero section with animated typing effect and 3D tech cube animation
 - Social media links
 - Call-to-action buttons
 
@@ -127,6 +127,7 @@ Featured projects include:
 - **Responsive Grid Layout**: Adaptive grid system for projects
 - **Interactive Buttons**: 3D button effects with hover states
 - **Animated Backgrounds**: Floating shapes and dynamic backgrounds
+- **3D Tech Cube Animation**: Rotating cube with tech icons and floating particles
 
 ## 📱 Responsive Design
 
@@ -135,7 +136,6 @@ The portfolio is fully responsive and optimized for:
 - 📱 Tablets (768px and up)
 - 💻 Desktops (1024px and up)
 - 🖥️ Large screens (1440px and up)
-
 ## 🔗 Links
 
 - **Portfolio**: [https://gitika123.github.io/My-Portfolio/](https://gitika123.github.io/My-Portfolio/)
